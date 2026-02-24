@@ -1,0 +1,29 @@
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\AudioSwitcherModule.json
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Train station.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Sounds of Japan.dll
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Sounds of Japan.pdb
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\obj\Release\net48\Sounds of Japan.csproj.AssemblyReference.cache
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\obj\Release\net48\Sounds of Japan.GeneratedMSBuildEditorConfig.editorconfig
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\obj\Release\net48\Sounds of Japan.AssemblyInfoInputs.cache
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\obj\Release\net48\Sounds of Japan.AssemblyInfo.cs
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\obj\Release\net48\Sounds of Japan.csproj.CoreCompileInputs.cache
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\obj\Release\net48\Sounds of Japan.dll
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\obj\Release\net48\Sounds of Japan.pdb
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Agriculture.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Airport.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\But Depot.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\City.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Construction Site.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Crosswalk.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Forest.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Harbor.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Industrial.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Metro.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Plaza.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\School.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Suburban night.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\Suburban.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Ambient\University.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Sirens\Ambulance.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Sirens\Fire Truck.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Release\net48\Audio\Sirens\Police car.ogg

@@ -1,0 +1,22 @@
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\AudioSwitcherModule.json
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Agriculture.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Airport.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\But Depot.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\City.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Construction Site.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Crosswalk.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Forest.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Harbor.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Industrial.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Metro.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Plaza.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\School.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Suburban night.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Suburban.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\Train station.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Ambient\University.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Sirens\Ambulance.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Sirens\Fire Truck.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Audio\Sirens\Police car.ogg
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Sounds of Japan.dll
+H:\cities mods\Sounds of Japan\Sounds of Japan\Sounds of Japan\bin\Debug\net48\publish\Sounds of Japan.pdb

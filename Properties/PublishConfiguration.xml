@@ -1,0 +1,47 @@
+﻿<Publish>
+	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
+	<ModId Value="135810" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="Sounds of Japan (Audio Switcher Module)" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="This is a module for Audio Switcher aimed at importing sirens, engines or ambient sounds of Japan" />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<!--LongDescription Value="This is a long description" /-->
+	<LongDescription>
+# This is a module for Audio Switcher aimed at importing sirens, engines or ambient sounds of Japan
+
+## This mod currently includes:
+* Sirens for ambulance, police and fire fighting vehicules
+* Ambient sounds for multiple zone type and buildings
+
+I plan to include more and refine the audio in the future
+
+Sounds of Japan Github: https://github.com/aidantaylor/SoundsOfJapan
+Audio Switcher: https://github.com/SNIT01/CS2-Audio-Switcher
+How to create an Audio Switcher module: https://github.com/SNIT01/ImprovedAircraftSounds
+	</LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<!--Screenshot, can be set multiple times-->
+	<Screenshot Value="" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="Code Mod" />
+	<!--Link to the forum post where the mod can be discussed-->
+	<ForumLink Value="" />
+	<!--Version of the mod-->
+	<ModVersion Value="1.1" />
+	<!--Recommended version of the base game to use the mod-->
+	<GameVersion Value="1.5.4f1" />
+	<!--Dependency for the mod, can be set multiple times-->
+	<Dependency Id="135367" />
+	<!--Required DLC, can be set multiple times. Supported values are "Landmark Buildings", "San Fransisco Set", "Beach Properties", "Urban Promenades", "Modern Architecture"-->
+	<RequiredDLC Value="" />
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog Value="Initial release" />
+	<!--<ChangeLog>
+	</ChangeLog>-->
+	<!--External link, can be set multiple times. supported types are "discord", "github", "youtube", "twitch", "x", "paypal", "patreon", "buymeacoffee", "kofi", "crowdin", "gitlab", "gofundme"-->
+	<ExternalLink Type="github" Url="https://github.com/aidantaylor/SoundsOfJapan" />
+	<!--Supported values Public, Private, Unlisted-->
+	<AccessLevel Value="Public" />
+</Publish>
